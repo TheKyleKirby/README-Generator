@@ -1,11 +1,11 @@
 
-# Harmonica
+# README-Generator
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-Super lame instrument
+This is simple code using JavaScript and Node to create a Professional README! Just type "node index.js" in the command line and follow the prompts!
 
 ## Table of Contents
 
@@ -18,11 +18,11 @@ Super lame instrument
 
 ## Installation
 
-Make it take it
+N/A
 
 ## Usage
 
-Music
+This was made so that I could easily and efficiently make README's for my projects without wasting time.
 
 ## License
 
@@ -30,13 +30,13 @@ This project is covered under the MIT license.
 
 ## Contributing
 
-ME ME ME ME
+Me, Myself, I.
 
 ## Tests
 
-Run it
+N/A
 
 ## Questions
 
-For additional questions, reach out to me at ky.
-You can check out my GitHub profile at [ky](https://github.com/ky).
+For additional questions, reach out to me at kylekirby86@gmail.com.
+You can check out my GitHub profile at [TheKyleKirby](https://github.com/TheKyleKirby).

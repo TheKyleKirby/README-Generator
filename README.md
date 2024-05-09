@@ -26,6 +26,7 @@ N/A
 ## Usage
 
 This was made so that I could easily and efficiently make README's for my projects without wasting time.
+Click Here to view video: https://drive.google.com/file/d/1OgU5Ze9tzY0gMKM0VJ8-hcc2Vvs9RyRH/view
 
 ## License
 
